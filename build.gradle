@@ -30,7 +30,7 @@ repositories {
 
 
 dependencies {
-    compile('org.springframework.boot:spring-boot-starter-webflux')
+    compile('org.springframework.boot:spring-boot-starter-webflux:2.0.0.M4')
 
     //other dependencies
     compileOnly('org.projectlombok:lombok:1.16.18')
